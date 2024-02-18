@@ -13,7 +13,7 @@ import { NeighborhoodGenerator, RoadGenerator } from 'megalopolis';
 const neighborhoodName: string = NeighborhoodGenerator.generate();
 console.log(neighborhoodName);
 
-const roadName: string = NeighborhoodGenerator.generate();
+const roadName: string = RoadGenerator.generate();
 console.log(roadName);
 ```
 
