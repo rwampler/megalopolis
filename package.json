@@ -1,5 +1,5 @@
 {
-  "name": "random-names",
+  "name": "metropolis",
   "version": "0.1.0",
   "description": "",
   "main": "build/main/index.js",
@@ -7,7 +7,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rwampler/random-names.git"
+    "url": "git://github.com/rwampler/metropolis.git"
   },
   "author": "rwampler",
   "license": "MIT",
