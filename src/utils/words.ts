@@ -15,6 +15,7 @@ export const WORDS: Map<string, Array<string>> = new Map([
       'Middle',
       'Mount',
       'Skyline',
+      'Side',
       'Summit'
     ]
   ],
@@ -23,9 +24,12 @@ export const WORDS: Map<string, Array<string>> = new Map([
     [
       'Enchanted',
       'Fair',
+      'Great',
       'Hungry',
       'New',
+      'Old',
       'Pleasant',
+      'Saint',
       'Victory'
     ]
   ],
@@ -50,7 +54,8 @@ export const WORDS: Map<string, Array<string>> = new Map([
       'Bunker',
       'Cottage',
       'Country Club',
-      'Plaza'
+      'Plaza',
+      'View'
     ]
   ],
   [
@@ -122,12 +127,26 @@ export const WORDS: Map<string, Array<string>> = new Map([
     'noun.direction',
     [
       'East',
+      'Eastern',
       'North',
-      'Side',
+      'Northern',
       'South',
-      'View',
+      'Sourthern',
       'West',
       'Western'
+    ]
+  ],
+  [
+    'noun.direction.route',
+    [
+      'E',
+      'N',
+      'NE',
+      'NW',
+      'S',
+      'SE',
+      'SW',
+      'W'
     ]
   ],
   [
@@ -274,6 +293,55 @@ export const WORDS: Map<string, Array<string>> = new Map([
       'Sunrise',
       'Sunset',
       'Twilight'
+    ]
+  ],
+  [
+    'noun.road.street',
+    [
+      'Avenue',
+      'Ave',
+      'Drive',
+      'Dr',
+      'Estrada',
+      'Lane',
+      'Ln',
+      'Place',
+      'Pl',
+      'Plaza',
+      'Road',
+      'Rd',
+      'Street',
+      'St',
+      'Route',
+      'Rt',
+      'Way'
+    ]
+  ],
+  [
+    'noun.road.street.end',
+    [
+      'Alley',
+      'Court',
+      'Close',
+      'Crescent',
+      'Cul-de-sac',
+      'End'
+    ]
+  ],
+  [
+    'noun.road.street.large',
+    [
+      'Autobahn',
+      'Beltway',
+      'Boulevard',
+      'Expressway',
+      'Highway',
+      'Loop',
+      'Motorway',
+      'Parkway',
+      'Overpass',
+      'Rodovia',
+      'Turnpike'
     ]
   ],
   [

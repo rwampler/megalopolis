@@ -1,13 +1,13 @@
 {
-  "name": "metropolis",
-  "version": "0.1.0",
-  "description": "",
+  "name": "megalopolis",
+  "version": "1.0.0",
+  "description": "Generate random neighborhood, street, and other city infrastructure names",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rwampler/metropolis.git"
+    "url": "git://github.com/rwampler/megalopolis.git"
   },
   "author": "rwampler",
   "license": "MIT",
